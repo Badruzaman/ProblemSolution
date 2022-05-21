@@ -1,0 +1,14 @@
+D:\Dot Net Core\Console\ProblemSolving\3Sum\bin\Debug\netcoreapp3.1\3Sum.exe
+D:\Dot Net Core\Console\ProblemSolving\3Sum\bin\Debug\netcoreapp3.1\3Sum.deps.json
+D:\Dot Net Core\Console\ProblemSolving\3Sum\bin\Debug\netcoreapp3.1\3Sum.runtimeconfig.json
+D:\Dot Net Core\Console\ProblemSolving\3Sum\bin\Debug\netcoreapp3.1\3Sum.runtimeconfig.dev.json
+D:\Dot Net Core\Console\ProblemSolving\3Sum\bin\Debug\netcoreapp3.1\3Sum.dll
+D:\Dot Net Core\Console\ProblemSolving\3Sum\bin\Debug\netcoreapp3.1\3Sum.pdb
+D:\Dot Net Core\Console\ProblemSolving\3Sum\obj\Debug\netcoreapp3.1\3Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Core\Console\ProblemSolving\3Sum\obj\Debug\netcoreapp3.1\3Sum.AssemblyInfoInputs.cache
+D:\Dot Net Core\Console\ProblemSolving\3Sum\obj\Debug\netcoreapp3.1\3Sum.AssemblyInfo.cs
+D:\Dot Net Core\Console\ProblemSolving\3Sum\obj\Debug\netcoreapp3.1\3Sum.csproj.CoreCompileInputs.cache
+D:\Dot Net Core\Console\ProblemSolving\3Sum\obj\Debug\netcoreapp3.1\3Sum.dll
+D:\Dot Net Core\Console\ProblemSolving\3Sum\obj\Debug\netcoreapp3.1\3Sum.pdb
+D:\Dot Net Core\Console\ProblemSolving\3Sum\obj\Debug\netcoreapp3.1\3Sum.genruntimeconfig.cache
+D:\Dot Net Core\Console\ProblemSolving\3Sum\obj\Debug\netcoreapp3.1\3Sum.csproj.AssemblyReference.cache
